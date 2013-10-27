@@ -17,7 +17,7 @@ Cначала установите composer:
         }
     }
 
-Установка с помощью Сomposer:
+Установика через composer:
 
     php composer.phar install
 
